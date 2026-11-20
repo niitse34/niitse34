@@ -1,16 +1,13 @@
-## Hi there 👋
+### Leonardo Córdova Rosas
 
-<!--
-**niitse34/niitse34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Havana.
 
-Here are some ideas to get you started:
+I work on applied AI research at the AI Department, currently around fuzzy logic
+and computer-generated graphics. I also participate in ICPC events and use
+competitive programming as a way to keep algorithms and data structures sharp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, C++. Assembly.
+
+**Backend:** Some experience with Django and MySQL.
+
+**Spoken languages:** Spanish (native), Mandarin Chinese (HSK 4, certified), English (fluent).
